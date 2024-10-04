@@ -20,4 +20,5 @@ The Braille Keyboard is designed to assist blind individuals in accessing digita
 - The resulting letter is displayed on the LCD monitor.
 
 ### Circuit Diagram
-![Circuit Diagram](path_to_your_image](https://github.com/user-attachments/assets/89576a66-4ee0-42f0-8428-4589ca64b108)
+![Circuit Diagram](https://raw.githubusercontent.com/Faisalkarim/Braille-Keyboard/bf061a0b3839c96ecdda2b55c6e9ea268f93dbce/br%20keyboard.PNG)
+
